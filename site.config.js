@@ -26,7 +26,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: "https://w.nexis.cc/w-icon.png",
+  defaultPageIcon: "https://w.nexis.cc/w-fav.ico",
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
