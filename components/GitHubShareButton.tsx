@@ -11,7 +11,6 @@ export const GitHubShareButton: React.FC = () => {
       className={styles.githubCorner}
       aria-label='View source on GitHub'
     >
-      <!--<div style="position:absolute; top:0; right:0;"><img src="https://w.nexis.cc/go-home.png" /></div>-->
     </a>
   )
 }
