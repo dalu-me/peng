@@ -14,7 +14,7 @@ export default siteConfig({
   author: '美赛思',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '光盘作为一种数据存储介质，已经渐渐淡出了人们的视线，但是在一些特定的行业应用中，光盘仍然是数据存储和数据交换的最佳存储介质。',
 
   // social usernames (optional)
   // twitter: '',
