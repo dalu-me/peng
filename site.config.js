@@ -54,6 +54,10 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
+      title: '首页',
+      pageId: '9c55e75bb2a240db9880ef82649775db'
+    },
+    {
       title: '联系我们',
       pageId: '9c55e75bb2a240db9880ef82649775db'
     },
