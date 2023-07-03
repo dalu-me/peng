@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '日志',
-  domain: 'w.nexis.cc',
+  domain: 'blog.pengpeng.org',
   author: '高鹏大虾',
 
   // open graph metadata (optional)
