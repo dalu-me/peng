@@ -2,19 +2,19 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '9c55e75bb2a240db9880ef82649775db',
-
+  rootNotionPageId: '2023-6e1d412d43084ac5b15b5ac6445bb163',
+  
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '光盘应用',
+  name: '日志',
   domain: 'w.nexis.cc',
-  author: '美赛思',
+  author: '高鹏大虾',
 
   // open graph metadata (optional)
-  description: '光盘作为一种数据存储介质，已经渐渐淡出了人们的视线，但是在一些特定的行业应用中，光盘仍然是数据存储和数据交换的最佳存储介质。这里会介绍一些光盘的应用特点、应用场景、自动化光盘制作解决方案。',
+  description: '个人日志',
 
   // social usernames (optional)
   // twitter: '',
