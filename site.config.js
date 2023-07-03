@@ -55,15 +55,15 @@ export default siteConfig({
   navigationLinks: [
     {
       title: '首页',
-      pageId: '9c55e75bb2a240db9880ef82649775db'
+      pageId: '2023-6e1d412d43084ac5b15b5ac6445bb163'
     },
     {
       title: '联系我们',
-      pageId: '9c55e75bb2a240db9880ef82649775db'
+      pageId: '2023-6e1d412d43084ac5b15b5ac6445bb163'
     },
     {
       title: '关于',
-      pageId: '9c55e75bb2a240db9880ef82649775db'
+      pageId: '2023-6e1d412d43084ac5b15b5ac6445bb163'
     }
   ]
 })
